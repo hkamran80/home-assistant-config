@@ -11,6 +11,6 @@ This is my configuration for Home Assistant, a powerful, Python-based, open-sour
 # Files/Folders
 * `custom_components`:
   * `sensor`:
-   * `pge_rateplans.py`: PG&E [EV] Rate Plan sensor for Home Assistant, created by yours truly.
-   * `publicip.py`: Public IP sensor, created by yours truly.
+    * `pge_rateplans.py`: PG&E [EV] Rate Plan sensor for Home Assistant, created by yours truly.
+    * `publicip.py`: Public IP sensor, created by yours truly.
    
